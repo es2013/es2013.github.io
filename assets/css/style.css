@@ -75,7 +75,7 @@ header nav ul li a:hover {
 /* HERO STYLES START */
 .hero {
   background-image: url('../images/white-wooden-hero.jpg');
-  height: 350px;
+  height: 450px;
   background-size: cover;
   display: flex;
   justify-content: center;
